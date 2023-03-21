@@ -1,8 +1,8 @@
 fx_version 'adamant'
 game 'gta5'
 
-author 'Ziraflix Dev Group'
-contact 'E-mail: contato@ziraflix.com - Discord: discord.gg/6p3M3Cz'
+author 'Agatha Kalashnikov'
+contact 'E-mail: abbyssid@gmail.com - Discord: Abbyssid#0047'
 version '1.0.4'
 
 -- DELIVERY COCA
